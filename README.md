@@ -106,3 +106,5 @@ POST /produtos
 <h2>Diferenças da sprint 2 para a 3</h2>
 <p> As principais diferenças foram a reformulação geral do codigo deixando mais padronizado, a criação de um login com o spring security, o sistema de envio de email, a melhora do sistema de cadastro de clientes, produtos e compras, a utilização do flyway para o banco de dados e utilização de DTO</p>
 
+<p>O codigo esta no master</p>
+
