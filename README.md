@@ -11,7 +11,7 @@
 </head>
 <body>
   <h1>Projeto de Gestão de Clientes</h1>
-  <p>Este projeto é um sistema de gestão de clientes e compras, que permite criar, visualizar, editar e excluir dados de clientes, assim como suas compras, seu login é feito com jwt security e tem um  sistema de envio de email de boas vindas</p>
+  <p>Este projeto é um sistema de gestão de clientes e compras, que permite criar, visualizar, editar e excluir dados de clientes, assim como suas compras, seu login é feito com spring security e tem um  sistema de envio de email de boas vindas</p>
 
   <h2>🚀 Tecnologias Utilizadas</h2>
   <ul>
