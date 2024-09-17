@@ -108,3 +108,7 @@ POST /produtos
 
 <p>O codigo esta no master</p>
 
+<h2>Link para o video</h2>
+
+<p>https://youtu.be/2KBVmzaax78</p>
+
